@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FinalProject</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_beverage_show">BeverageShow</string>
+    <string name="title_activity_beverage_create">BeverageCreate</string>
+    <string name="title_activity_beverage_add">BeverageAdd</string>
+    <string name="action_add">Add Drink</string>
+    <string name="action_rating">Add Rating</string>
+    <string name="action_home">Home</string>
+    <string name="title_activity_beverage_create_wine">BeverageCreateWine</string>
+    <string name="title_activity_beverage_create_md">BeverageCreateMD</string>
+    <string name="title_activity_splash_screen">SplashScreen</string>
+</resources>

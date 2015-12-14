@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Tyler\AndroidStudioProjects\FinalProject\app\libs\svg-android.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="da90ccda68d4c02a84b9cb01526da382522c7b0d">
+        <dex dex="C:\Users\Tyler\AndroidStudioProjects\FinalProject\app\build\intermediates\pre-dexed\debug\svg-android-1fe12f9f4a1976c5d2ef74c12904b0a72df73e5c.jar" />
+    </item>
+
+</items>
